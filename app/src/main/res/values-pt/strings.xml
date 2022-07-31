@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="nomedojogo">Velocidade Desafio</string>
+<string name="fimdojogo1">Fim de Jogo</string>
+<string name="fimdojogo2">Parabéns</string>
+<string name="passoudefase">Passou de Fase</string>
+<string name="faltaestrela">Pista Bloqueada</string>
+<string name="tentedenovo1">Tente de novo</string>
+<string name="tentedenovo2">Você deve ser rápido</string>
+<string name="tentedenovo3">e não pode cortar caminho</string>
+</resources>

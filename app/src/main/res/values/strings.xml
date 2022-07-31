@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="nomedojogo">Challenge Speed</string>
+<string name="fimdojogo1">Game Over</string>
+<string name="fimdojogo2">Congratulations</string>
+<string name="passoudefase">Stage Complete</string>
+<string name="faltaestrela">Locked Stage</string>
+<string name="tentedenovo1">Try Again</string>
+<string name="tentedenovo2">You should be fast</string>
+<string name="tentedenovo3">and not take shortcut</string>
+</resources>
